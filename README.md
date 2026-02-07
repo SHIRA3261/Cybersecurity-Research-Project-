@@ -1,9 +1,9 @@
 # Cybersecurity-Research-Project-
-# Secure authentication system with password hashing and active defense mechanisms against brute-force and sprray attacks
-# Group Seed  536128351
-# Secure Authentication & Defensive Strategies
-# Final Project - Cyber Security Course
-# Computer Science Course Number 20940
+ Secure authentication system with password hashing and active defense mechanisms against brute-force and sprray attacks
+ Group Seed  536128351
+Secure Authentication & Defensive Strategies
+Final Project - Cyber Security Course
+Computer Science Course Number 20940
 
 ## Overview
 This project implements a secure authentication infrastructure focusing on two main vectors:
